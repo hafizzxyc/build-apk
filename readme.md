@@ -41,7 +41,7 @@ tools ini adalah alat canggih untuk mengkonversi proyek web (HTML/React) menjadi
 ```bash
 git clone https://github.com/bocil-termux/build-apk.git
 
-cd apk-builder-tools
+cd build-apk
 python3 setup.py
 python3 mulai.py
 
