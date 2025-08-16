@@ -73,6 +73,22 @@ Pilih antara pendaftaran atau login untuk mengakses tools.
    - Build APK di cloud
    - Download APK yang sudah jadi
 
+## 🌟 Contoh Alur Kerja
+
+```mermaid
+graph TD
+    A[Mulai] --> B{Jenis Proyek?}
+    B -->|HTML| C[Konfigurasi Proyek HTML]
+    B -->|React| D[Konfigurasi Proyek React]
+    C --> E[Atur Detail Aplikasi]
+    D --> E
+    E --> F[Pilih Permission]
+    F --> G[Pilih Opsi Tampilan]
+    G --> H[Konfigurasi Build]
+    H --> I[Build di Cloud]
+    I --> J[Download APK]
+```
+
 ## 📊 Sistem Token
 
 | Jenis Token  | Deskripsi                          | Cara Mendapatkan       |
