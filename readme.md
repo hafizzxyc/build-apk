@@ -2,9 +2,24 @@
 
 ![Banner Proyek](https://raw.githubusercontent.com/bocil-termux/Buat_Sandi/refs/heads/main/file_000000005500622f977c3f8804e1b073.png)
 
+## ⚠️ DISCLAIMER DAN PERINGATAN PENTING
+
+**Pembuat alat ini (EyeFox) tidak bertanggung jawab atas penyalahgunaan tools ini untuk tujuan ilegal atau berbahaya.** 
+
+- Tools ini dirancang untuk membantu developer web yang sah mengkonversi proyek mereka ke APK Android
+- **Dilarang keras** menggunakan tools ini untuk:
+  - Membuat aplikasi berisi malware
+  - Melakukan aktivitas ilegal
+  - Menyebarkan konten berbahaya
+  - Melanggar hak cipta
+- Pengguna bertanggung jawab penuh atas APK yang mereka buat
+- Kami tidak menyimpan atau memantau proyek yang dibangun dengan tools ini
+
+**Gunakanlah dengan bijak dan bertanggung jawab!**
+
 ## 📌 Gambaran Umum
 
-tools ini adalah alat canggih untuk mengkonversi proyek web (HTML/React) menjadi APK Android dengan berbagai opsi kustomisasi. Tool ini menyediakan:
+Tools ini adalah alat canggih untuk mengkonversi proyek web (HTML/React) menjadi APK Android dengan berbagai opsi kustomisasi. Tool ini menyediakan:
 
 - **Konversi Web ke APK** untuk proyek HTML dan React
 - **Penandatanganan APK** dengan keystore kustom
@@ -44,7 +59,6 @@ git clone https://github.com/bocil-termux/build-apk.git
 cd build-apk
 python3 setup.py
 python3 mulai.py
-
 ```
 
 ## 🛠️ Cara Penggunaan
@@ -98,12 +112,15 @@ graph TD
 
 ## 🤝 Saran dan Kritik
 
-Kami menerima semua saran yang diberikan
+Kami menerima semua saran yang diberikan untuk pengembangan tools ini. Harap gunakan tools ini hanya untuk tujuan yang baik dan legal.
+
 ## ✉️ Kontak
 
-kontak admin EyeFox yang bisa dihubungi:
+Kontak admin EyeFox yang bisa dihubungi:
 - Nomor Wa: 087844072512
 - Telegram: t.me/EyeFox123
 - Grup Telegram: http://t.me/EyeFox_Group
 
 ## Salam hangat dari EyeFox 🦊
+
+**Ingat:** Dengan menggunakan tools ini, Anda menyetujui bahwa Anda bertanggung jawab penuh atas APK yang dibuat dan akan menggunakan tools ini hanya untuk tujuan yang sah dan baik.
